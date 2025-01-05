@@ -2,6 +2,6 @@
   {
     "id": "conditions",
     "name": "Conditions",
-    "topics_url": "",
+    "index": "https://raw.githubusercontent.com/mohamedeliwa/fake-db/refs/heads/main/book/conditions/index.json",
   }
 ]
