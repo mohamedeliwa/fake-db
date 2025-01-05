@@ -1,7 +1,7 @@
 [
   {
-    id: "conditions",
-    Name: "Conditions",
-    topics_url: "",
+    "id: "conditions",
+    "name": "Conditions",
+    "topics_url": "",
   }
 ]
