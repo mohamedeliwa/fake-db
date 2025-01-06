@@ -3,6 +3,6 @@
     "version": 0,
     "title": "Conditions",
     "description": "a list of articles focusing on medical conditions management specially investigations and treatment",
-    "index": "https://raw.githubusercontent.com/mohamedeliwa/fake-db/refs/heads/main/book/conditions/index.json"
+    "index_url": "https://raw.githubusercontent.com/mohamedeliwa/fake-db/refs/heads/main/book/conditions/index.json"
   }
 ]
