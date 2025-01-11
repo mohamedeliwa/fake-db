@@ -1,5 +1,6 @@
 [
    {
+    "version": 0,
     "key": "peptic_ulcers",
     "title": "Peptic ulcers",
     "description":
@@ -7,6 +8,7 @@
     "url": "https://raw.githubusercontent.com/mohamedeliwa/fake-db/refs/heads/main/book/conditions/peptic_ulcer.md"
   },
   {
+    "version": 0,
     "key": "ischemic_stroke",
     "title": "Ischemic Stroke",
     "description":
@@ -14,6 +16,7 @@
     "url": "https://raw.githubusercontent.com/mohamedeliwa/fake-db/refs/heads/main/book/conditions/peptic_ulcer.md"
   },
   {
+    "version": 0,
     "key": "diabetic_ketoacidosis_(dka)",
     "title": "Diabetic ketoacidosis (DKA)",
     "description":
@@ -21,6 +24,7 @@
     "url": "https://raw.githubusercontent.com/mohamedeliwa/fake-db/refs/heads/main/book/conditions/peptic_ulcer.md"
   },
   {
+    "version": 0,
     "key": "myocardial_infarction",
     "title": "Myocardial infarction",
     "description":
@@ -28,6 +32,7 @@
     "url": "https://raw.githubusercontent.com/mohamedeliwa/fake-db/refs/heads/main/book/conditions/peptic_ulcer.md"
   },
   {
+    "version": 0,
     "key": "acute_limb_ischemia_(ali)",
     "title": "Acute limb ischemia (ALI)",
     "description":
